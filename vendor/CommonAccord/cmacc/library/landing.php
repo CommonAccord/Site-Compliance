@@ -2,30 +2,30 @@
 
    <table><tr><td>
 
-   <span title="Introduction">This website is for "compliance" documents.  Currently, this centers on an <a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Anti-Bribery and Anti-Corruption Policy</a>
-   contributed by David Simon of Foley & Lardner.</span><br><br>
-   <span title="Go To David's Document">When you click on the first link below, you will see his document.</span>
+   <span title="Introduction">This website is for "compliance" documents.  Currently, this centers on an <a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Anti-Bribery and Anti-Corruption Policy</a>    contributed by David Simon of Foley & Lardner. 
+
+We invite you to contribute other documents, to make extensions for this one and to suggest changes.
+
+</span><br><br>
+   <span title="Go To David's Document">When you click on the first link below, you will see David's document.</span>
 <ul><li>
 
-   <span title="Colored Open Points">In that "<b>Document</b>" view, it will have red <font color="red">{open points}</font>.</span><li>
+   <span title="Colored Open Points">In the "<a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Document</a>" view, it will have red <font color="red">{open points}</font>.</span><li>
    <span title="Cursor Tells You Where Text Came From">If you <u>hover your cursor</u> over a part of the text and wait a moment, a tiny box will pop up and tell you the name of that span of text.</span>   <li>
 
- <span title="Source Tab">Click on "<b>Source</b>" for the components.</span><li>
+ <span title="Source Tab">Click on "<a href="index.php?action=source&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Source</a>" for the components and an up arrow to take you to other files.<li>
 
-<span title="Edit Tab"> "<b>Edit</b>" let's you play (save box at the bottom of the window).  Your changes are  temporary, wiped out by the next update of the site, unless you edit by "forking" on the GitHub repo or email your text to us at <a href="mailto:commonaccord@gmail.com">commonaccord@gmail.com</a>.</span><li>   
+<span title="Edit Tab"> "<a href="index.php?action=edit&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Edit</a>" let's you play (save box at the bottom of the window).  Your changes are  temporary, wiped out by the next update of the site, unless you edit by "forking" on the GitHub repo or email your text to us at <a href="mailto:commonaccord@gmail.com">commonaccord@gmail.com</a>.</span><li>   
 
-<span title="Edit and Complete Tab"> "<b>Edit and Complete</b>" prompts you with the missing elements. </span><li>
+<span title="Edit and Complete Tab"> "<a href="index.php?action=openedit&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Edit and Complete</a>" prompts you with the missing elements. </span><li>
 
-   <span title="Print Tab">"<b>Print</b>" is the same as "Document," except it <i>does not</i> have a heading, color open fields or mark text spans. Ready for printing and stripped of that metadata.</span><li>
+   <span title="Print Tab">"<a href="index.php?action=print&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Print</a>" is the same as "Document," except it <i>does not</i> have a heading, colored opens or marked text spans. Ready for printing and stripped of metadata.</span><li>
 
-   <span title="Go To GitHub">"<b>GitHub</b>" takes you to the source code for the entire site, kept at the place where many engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - they are free, easy to get and very useful. </span><li>
-
-   <span title="Up">From "Source" view, you have an up arrow to take you to other files.</span>
+   <span title="Go To GitHub">"<a href="http://github.com/CommonAccord/Site-Compliance/blob/master/Doc/FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">GitHub</a>" takes you to the source code for the entire site, kept at GitHub, where many engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  They are free, easy to get and very useful. </span>
 
 </ul>
-
-   <span title="Go To David Simon's document:"><a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Anti-Bribery and Anti-Corruption Policy</a> by David Simon of Foley & Lardner.</span><br><br>
-<br><a href="index.php?action=list&file=/">Folder with all the documents.</a><br>
+<br>
+<br><span title="Top Level Folder"><a href="index.php?action=list&file=/">Folder with all the documents.</a></span><br>
 <br>
 <span title="Other Sites">Other sites: <ul><li>
 <a href="http://source.commonaccord.org">source.commonaccord.org</a> (Master Service Agreement)<li>
