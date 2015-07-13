@@ -48,7 +48,7 @@ Ti=Are Business Courtesies Permitted?
 
 4.=[Z/Sec/s6]
 
-5.sec=Appropriate gifts or business courtesies will usually be valued at less than ${100}, and any gifts given by {the_Company}' employees, as appropriate, should usually bear the {the_Company}'slogo.
+5.sec=Appropriate gifts or business courtesies will usually be valued at less than {Gift.PermittedMax.Value}, and any gifts given by {the_Company}' employees, as appropriate, should usually bear the {the_Company}'s logo.
 
 6.0.sec=The following gifts, meals, entertainment or business courtesies are never permitted:
 
@@ -68,7 +68,7 @@ Ti=Are Business Courtesies Permitted?
 
 7.1.sec=Infrequently, it may be appropriate for {the_Company}'s personnel to pay for travel expenses of officials, customers, suppliers, or other business associates, such as where it is necessary to visit a particular facility for an inspection or for a contract negotiation session.
 
-7.2.sec=Because such offers in nearly all cases require a non-nominal expenditure, offers to pay for travel-related expenses always require the prior approval of {INSERT EMPLOYEE APPROVER}.
+7.2.sec=Because such offers in nearly all cases require a non-nominal expenditure, offers to pay for travel-related expenses always require the prior approval of {TravelOffer.Supervisor}.
 
 7.=[Z/para/s2]
 

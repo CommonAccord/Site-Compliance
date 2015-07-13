@@ -1,7 +1,7 @@
 
 Ti=Who is Covered by this Policy
 
-1.0.sec=This Policy prohibits bribery and corrupt behavior by:
+1.0.sec={This_Policy} prohibits bribery and corrupt behavior by:
 
 1.1.sec=Any employee, officer, or director of the Company; and
 
@@ -9,7 +9,7 @@ Ti=Who is Covered by this Policy
 
 1.=[Z/Sec/s2]
 
-2.0.sec=Acts of bribery and corruption commonly involve public or government officials.  This Policy prohibits the payment of bribes – in any amount and at any level – to any public or government officials, including but not limited to the following:
+2.0.sec=Acts of bribery and corruption commonly involve public or government officials.  {This_Policy} prohibits the payment of bribes – in any amount and at any level – to any public or government officials, including but not limited to the following:
 
 2.1.sec=Officers or employees of any local, provincial or national government (for example, members of Parliament, police officers, firefighters, members of the military, tax authorities, permit issuers, customs inspectors, etc.);
 
@@ -25,7 +25,7 @@ Ti=Who is Covered by this Policy
 
 2.=[Z/Sec/s6]
 
-3.0.sec=Bribery also can involve corrupt payments to agents or employees of customers or business partners in order to secure an advantage over competitors.  This Policy therefore prohibits the payment of bribes – in any amount and at any level – to any private persons, including but not limited to the following:
+3.0.sec=Bribery also can involve corrupt payments to agents or employees of customers or business partners in order to secure an advantage over competitors.  {This_Policy} therefore prohibits the payment of bribes – in any amount and at any level – to any private persons, including but not limited to the following:
 
 2.1.sec=Employees of companies who are in a position to direct business to ABC;
 
@@ -33,6 +33,6 @@ Ti=Who is Covered by this Policy
 
 2.1.sec=Third parties who are in a position to recommend or refer business to ABC.
 
-3.sec=As noted above, any payment that cannot be made directly to an individual under this Policy may also not be made indirectly, such as to a close relative, through a friend, via the individual’s business, or through some other intermediary.
+3.sec=As noted above, any payment that cannot be made directly to an individual under {this_Policy} may also not be made indirectly, such as to a close relative, through a friend, via the individual’s business, or through some other intermediary.
 
 =[Z/paras/s3]

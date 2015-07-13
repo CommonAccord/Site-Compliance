@@ -2,10 +2,9 @@
 
    <table><tr><td>
 
-   <span title="Introduction">This website is for "compliance" documents.  Currently, this centers on an <a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Anti-Bribery and Anti-Corruption Policy</a>    contributed by David Simon of Foley & Lardner. 
+   <span title="Introduction">This website is for compliance documents.  Currently, it centers on an <a href="index.php?action=doc&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Anti-Bribery and Anti-Corruption Policy</a> contributed by David Simon of Foley & Lardner. 
 
-We invite you to contribute other documents, to make extensions for this one and to suggest changes.
-
+   We invite you to use it, make extensions, suggest changes and contribute documents that complement or compete with it.  We also invite you work on other materials at other CommonAccord sites or clone a site.
 </span><br><br>
    <span title="Go To David's Document">When you click on the first link below, you will see David's document.</span>
 <ul><li>
@@ -21,9 +20,14 @@ We invite you to contribute other documents, to make extensions for this one and
 
    <span title="Print Tab">"<a href="index.php?action=print&file=FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">Print</a>" is the same as "Document," except it <i>does not</i> have a heading, colored opens or marked text spans. Ready for printing and stripped of metadata.</span><li>
 
-   <span title="Go To GitHub">"<a href="http://github.com/CommonAccord/Site-Compliance/blob/master/Doc/FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">GitHub</a>" takes you to the source code for the entire site, kept at GitHub, where many engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  They are free, easy to get and very useful. </span>
+   <span title="Go To GitHub">"<a href="http://github.com/CommonAccord/Site-Compliance/blob/master/Doc/FoleyGRS/FCPAPolicy/Form/FCPA_01-02.md">GitHub</a>" takes you to the source code for the entire site, kept at GitHub, where many engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  A GitHub account is free, easy and very useful. </span>
+ <li>
+
+<span title="Go to Acme's Policy"><a href="index.php?action=source&file=/Deal/Acme-Policies/Acme-AntiBriberyPolicy_01-01.md">Acme's Anti-Bribery Policy</a>" based on the model policy.</span><li>
+<span title="Revise Acme's Policy"><a href="index.php?action=edit&file=/Deal/Acme-Policies/Acme-AntiBriberyPolicy_01-02.md">Edit Draft 2 of Acme's Policy</a>" based on the model policy.</span>
 
 </ul>
+
 <br>
 <br><span title="Top Level Folder"><a href="index.php?action=list&file=/">Folder with all the documents.</a></span><br>
 <br>

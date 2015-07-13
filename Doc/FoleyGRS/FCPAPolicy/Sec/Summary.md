@@ -1,6 +1,6 @@
 Ti=Policy Summary
 
-1.0.sec=The Policy can be summarized in three points:
+1.0.sec={This_Policy} can be summarized in three points:
 
 1.1.sec=We never pay bribes to get business.
 
@@ -22,7 +22,7 @@ Ti=Policy Summary
 
 2.=[Z/para/s5]
 
-3.1.sec=To ensure compliance with this Policy, and consistent with our accounting policies, all transactions must be recorded accurately and with sufficient detail to identify the actual purpose for each payment.
+3.1.sec=To ensure compliance with {this_Policy}, and consistent with our accounting policies, all transactions must be recorded accurately and with sufficient detail to identify the actual purpose for each payment.
 
 3.2.sec={The_Company} strictly prohibits any “off-the books” accounts or payments, or making any false, misleading, or incomplete entries in the books and records in an attempt to obscure the actual purpose of a payment.
 
