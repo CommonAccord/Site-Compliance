@@ -5,7 +5,8 @@ $lib_path = LIB_PATH;
 
 $dir="Website/Landing.md";
 
-echo $dir;
+echo $path/$dir\n;
+
 
 $document = `perl $lib_path/parser.pl $path/$dir`;
 
