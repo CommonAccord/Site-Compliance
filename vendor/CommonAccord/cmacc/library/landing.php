@@ -3,11 +3,12 @@
 
 $lib_path = LIB_PATH;
 
-$docdir="Doc/Website/Landing.md";
+$dir="Website/landing.md";
 
-echo $docdir;
 
-$document = `perl $lib_path/parser.pl $docdir`;
+echo $dir;
+
+$document = `perl $lib_path/parser.pl $path/$dir`;
 
 $minDocLength = 1;
 
