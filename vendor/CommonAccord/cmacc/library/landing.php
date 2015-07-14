@@ -3,25 +3,18 @@
 
 $lib_path = LIB_PATH;
 
-$dir="Website/landing.md";
+$page="Website/landing.md";
 
-
-echo $dir;
-
-$document = `perl $lib_path/parser.pl $path/$dir`;
+$document = `perl $lib_path/parser.pl $path/$page`;
 
 $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
-
-//kludge to let html headers have formatting.
  
   echo $document;}
  else {
    echo "Nothing to Show";
 
-
 }
-
 
 ?>
