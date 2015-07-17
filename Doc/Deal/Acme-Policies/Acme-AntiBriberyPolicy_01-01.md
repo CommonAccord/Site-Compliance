@@ -38,4 +38,4 @@ MessageToUser=Draft 2015-07-06
 
 /Purpose.1.sec=<ins>{The_Company} is committed to conducting business fairly, honorably, with integrity, and in compliance with the laws of every country in which it operates.</ins>
 
-//=Or you could do a second draft of this policy here: [Acme-Policies/Acme-AntiBriberyPolicy_0102.md]
+//=Or you could do a second draft of this policy here: [Deal/Acme-Policies/Acme-AntiBriberyPolicy_01-02.md]
