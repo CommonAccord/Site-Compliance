@@ -1,11 +1,23 @@
+<body style="margin:40;padding:0">
+
 <?php
 
 $lib_path = LIB_PATH;
 
-$page="Website/landing.md";
+$dir=LANDING_MD;
 
-$document = `perl $lib_path/parser.pl $path/$page`;
+$document = `perl $lib_path/parser.pl $path/$dir`;
 
-echo $document;
+$minDocLength = 1;
 
+if (strlen($document) > $minDocLength){ 
+
+//kludge to let html headers have formatting.
+ 
+  echo $document;}
+ else {
+   echo "Nothing to Show";
+
+
+}
 ?>
