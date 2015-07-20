@@ -1,5 +1,5 @@
 <?php 
-
+ 
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Site-Compliance');	// The repo home
