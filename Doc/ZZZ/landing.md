@@ -2,7 +2,7 @@ Model.Root=<p align="center">{Logo}</p>{Table.sec}
 
 Logo=<img src="visual/cmacc-trans.png" style="width:25%" />
 
-Table.sec=<table><tr><td width="40%">{IntroContent}</td><td> &emsp; </td><td>{TwitterBlock.sec}<br>{ListOfSites.sec}</td></tr></table>
+Table.sec=<table><tr><td width="60%">{IntroContent}</td><td> &emsp; </td><td>{TwitterBlock.sec}<br>{ListOfSites.sec}</td></tr></table>
 
 IntroContent={Introduction.sec}<br><br>{DavidsDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
