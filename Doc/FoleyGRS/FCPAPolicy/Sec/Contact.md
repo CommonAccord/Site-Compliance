@@ -14,7 +14,7 @@ Ti=Compliance Hotline and Company Contacts
 
 3.1.sec=The Compliance Hotline is a toll-free, confidential, third party service set up for employees to report possible violations of the law, {this_Policy}, or other {the_Company} policies.
 
-3.2.sec=The Hotline is staffed 24 hours per day and calls can be accepted in any language.
+3.2.sec=The anonymous Hotline is staffed 24 hours per day and calls can be accepted in any language.
 
 3.3.sec=Callers may make reports anonymously if they choose.
 
